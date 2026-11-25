@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Cultural evolution and the circulation of knowledge - methods, models, sources
+# Cultural evolution and the circulation of knowledge - methods, models, sources
+
+## About the workshop
 
 Computational history, economic history, and cultural evolution have each advanced the use of digital archives for a quantitative study of history. Detailed records in these datasets allow for greater precision in understanding the causal processes that have shaped past events. The workshop brings together scholars that have worked on circulation of knowledge and cultural norms in past communities to discuss state of the art and future opportunities.
 
@@ -12,7 +14,7 @@ Computational history, economic history, and cultural evolution have each advanc
 
 | Time | Speaker | Talk |
 |---|---|---|
-| 10:00–10:20 | Richard McElreath (MPI-EVA, Leipzig) \n Peeter Tinits (MPI-EVA, Leipzig) | Welcome |
+| 10:00–10:20 | Richard McElreath (MPI-EVA, Leipzig) <br> Peeter Tinits (MPI-EVA, Leipzig) | Welcome |
 | 10:20–11:00 | Peeter Tinits (MPI-EVA, Leipzig) | Bibliographic Data and the Diffusion of Authors in Europe 1500-1800 |
 | 11:00–11:40 | Matı́as Cabello (University Halle-Wittenberg) | The Growth of Science: Drivers, Barriers, and Future |
 | 11:40–12:20 | Julius Koschnick (University of Southern Denmark) | Did a feedback mechanism between propositional and prescriptive knowledge create modern growth? |
@@ -27,7 +29,7 @@ Computational history, economic history, and cultural evolution have each advanc
 
 ### December 4, 2026
 
-| Time | Talk | Speaker |
+| Time | Speaker | Talk |
 | 10:00–10:40 | Eetu Mäkelä (Helsinki University)  | TBA |
 | 10:40–11:20 | Anne Kandler (MPI-EVA, Leipzig) | TBA |
 | 11:20–12:00 | Bret Beheim (MPI-EVA, Leipzig) | The Forces of Cultural Change and the Death of Latin |
