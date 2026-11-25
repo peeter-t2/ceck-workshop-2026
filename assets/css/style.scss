@@ -163,3 +163,23 @@ q {
     font-size: 28px;
   }
 }
+
+
+.funder-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin: 20px 0;
+}
+
+.funder-logos img {
+  width: auto;
+  height: auto;
+  max-width: calc(50% - 15px);
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+}

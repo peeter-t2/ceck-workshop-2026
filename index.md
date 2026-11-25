@@ -41,7 +41,7 @@ Computational history, economic history, and cultural evolution have each advanc
 
 * The event is supported by the Estonian Research Council (grant PUTJD1251) and Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div class="funder-logos">
   <img src="assets/images/Estonian-Research-Council-logo-white_RGB-1400x427.webp" alt="Estonian Research Council logo">
   <img src="assets/images/MPI_EVA_Logo_EN_green.png" alt="Max Planck Institute for Evolutionary Anthropology logo">
 </div>
