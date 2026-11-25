@@ -17,12 +17,12 @@ Computational history, economic history, and cultural evolution have each advanc
 | 10:00–10:20 | **Richard McElreath** (MPI-EVA, Leipzig) <br> **Peeter Tinits** (MPI-EVA, Leipzig) | Welcome |
 | 10:20–11:00 | **Peeter Tinits** (MPI-EVA, Leipzig) | Bibliographic Data and the Diffusion of Authors in Europe 1500-1800 |
 | 11:00–11:40 | **Matı́as Cabello** (University Halle-Wittenberg) | The Growth of Science: Drivers, Barriers, and Future |
-| 11:40–12:20 | **Julius Koschnick** (University of Southern Denmark) | Did a feedback mechanism between propositional and prescriptive knowledge create modern growth? |
+| 11:40–12:20 | **Julius Koschnick** (University of Southern Denmark) | Did a Feedback Mechanism between Propositional and Prescriptive Knowledge Create Modern Growth? |
 | 12:20–13:20 | Lunch | |
 | 13:20–14:00 | **Ramona Roller** (Utrecht University) | Information Transmission during the European Reformation: the Role of Neighborhood Relations and Time-respecting Paths |
 | 14:00–14:40 | **Hans Joachim Voth** (University of Zurich) | TBA |
 | 14:40–15:10 | Break | |
-| 15:10–15:40 | **Malte Vogl** (Berlin-Brandenburgische Akademie der Wissenschaften) <br> **Raphael Schlattman** (Berlin Technical University) | Aspects of modelling knowledge dynamics for historical research |
+| 15:10–15:40 | **Malte Vogl** (Berlin-Brandenburgische Akademie der Wissenschaften) <br> **Raphael Schlattman** (Berlin Technical University) | Aspects of Modelling Knowledge Dynamics for Historical Research |
 | 15:40–16:20 | **Iiro Tiihonen** (Helsinki University) | Counting the zeroes: Reconstructing the missing part of the English Short Title Catalogue |
 
 | 18:00 | Dinner | 
