@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Cultural evolution and the circulation of knowledge - methods, models, sources
+# Cultural Evolution and the Circulation of Knowledge: Methods, Models, Sources
 
 ## About the workshop
 
