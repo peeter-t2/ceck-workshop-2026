@@ -4,11 +4,20 @@ layout: default
 
 # Cultural Evolution and the Circulation of Knowledge: Methods, Models, Sources
 
+<figure>
 ![MPI-EVA inner courtyard](assets/images/mpi-eva-inner.jpg)
+  <figcaption>
+    Atrium of the Max Planck Institute for Evolutionary Anthropology.
+  </figcaption>
+</figure>
 
 ## About the workshop
 
 Computational history, economic history, and cultural evolution have each advanced the use of digital archives for a quantitative study of history. Detailed records in these datasets allow for greater precision in understanding the causal processes that have shaped past events. The workshop brings together scholars that have worked on circulation of knowledge and cultural norms in past communities to discuss state of the art and future opportunities.
+
+## Venue
+
+The workshop will take place in the Max Planck Institute for Evolutionary Anthropology in [Deutscher Platz 6, Leipzig, Germany](https://maps.app.goo.gl/cfqMqLBiBGWPLWYu6).
 
 ## Schedule
 
