@@ -11,11 +11,80 @@ h1.title {
   font-size: 3rem;
 }
 
+
+
+/* Page width */
 .wrapper {
   width: 900px;
-  max-width: 95%;
+  max-width: calc(100% - 60px);
 }
 
 table {
   width: 100%;
+}
+
+/* Page title */
+h1.title {
+  font-size: 48px;
+}
+
+/* Responsive tables */
+.markdown-body table {
+  width: calc(100% + 40px);
+  margin-left: -20px;
+  margin-right: -20px;
+  table-layout: auto;
+}
+
+/* Floating header when scrolling */
+.current-section {
+  width: 918px;
+  max-width: calc(100% - 30px);
+  box-sizing: border-box;
+  left: 50%;
+  margin-left: 0;
+  transform: translateX(-50%);
+}
+
+/* Responsive images */
+.markdown-body img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Hide footer */
+footer {
+  display: none;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 600px) {
+  h1.title {
+    font-size: 32px;
+  }
+
+  .download-bar {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+
+  .markdown-body table {
+    font-size: 13px;
+    overflow-wrap: anywhere;
+  }
+}
+
+.markdown-body th:nth-child(1),
+.markdown-body td:nth-child(1) {
+  width: 18%;
+}
+
+.markdown-body th:nth-child(2),
+.markdown-body td:nth-child(2) {
+  width: 57%;
+}
+
+.markdown-body th:nth-child(3),
+.markdown-body td:nth-child(3) {
+  width: 25%;
 }
