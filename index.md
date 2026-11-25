@@ -25,7 +25,7 @@ Computational history, economic history, and cultural evolution have each advanc
 | 15:10–15:40 | **Malte Vogl** (Berlin-Brandenburgische Akademie der Wissenschaften) <br> **Raphael Schlattman** (Berlin Technical University) | Aspects of Modelling Knowledge Dynamics for Historical Research |
 | 15:40–16:20 | **Iiro Tiihonen** (Helsinki University) | Counting the zeroes: Reconstructing the missing part of the English Short Title Catalogue |
 
-| 18:00 | Dinner | 
+| 18:00 | Dinner |   |
 
 ### December 4, 2026
 
