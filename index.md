@@ -5,7 +5,7 @@ layout: default
 # Cultural Evolution and the Circulation of Knowledge: Methods, Models, Sources
 
 <figure>
-![MPI-EVA inner courtyard](assets/images/mpi-eva-inner.jpg)
+<img src="assets/images/mpi-eva-inner.jpg" alt="MPI-EVA inner courtyard">
   <figcaption>
     Central atrium of the Max Planck Institute for Evolutionary Anthropology.
   </figcaption>
