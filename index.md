@@ -2,21 +2,37 @@
 layout: default
 ---
 
-## About
+## Workshop
 
-A short paragraph describing the workshop, its purpose,
-and the topics that will be discussed.
+Computational history, economic history, and cultural evolution have each advanced the use of digital archives for a quantitative study of history. Detailed records in these datasets allow for greater precision in understanding the causal processes that have shaped past events. The workshop brings together scholars that have worked on circulation of knowledge and cultural norms in past communities to discuss state of the art and future opportunities.
 
 ## Schedule
 
-| Time | Talk | Speaker |
+### December 3, 2026
+
+| Time | Speaker | Talk |
 |---|---|---|
-| 09:00–09:15 | Welcome | |
-| 09:15–10:00 | Talk 1 | Speaker A |
-| 10:00–10:45 | Talk 2 | Speaker B |
-| 10:45–11:15 | Coffee break | |
-| 11:15–12:00 | Talk 3 | Speaker C |
-| 12:00–13:30 | Lunch | |
-| 13:30–14:15 | Talk 4 | Speaker D |
-| 14:15–15:00 | Discussion | 
+| 10:00–10:20 | Richard McElreath (MPI-EVA, Leipzig) \n Peeter Tinits (MPI-EVA, Leipzig) | Welcome |
+| 10:20–11:00 | Peeter Tinits (MPI-EVA, Leipzig) | Bibliographic Data and the Diffusion of Authors in Europe 1500-1800 |
+| 11:00–11:40 | Matı́as Cabello (University Halle-Wittenberg) | The Growth of Science: Drivers, Barriers, and Future |
+| 11:40–12:20 | Julius Koschnick (University of Southern Denmark) | Did a feedback mechanism between propositional and prescriptive knowledge create modern growth? |
+| 12:20–13:20 | Lunch | |
+| 13:20–14:00 | Ramona Roller (Utrecht University) | Information Transmission during the European Reformation: the Role of Neighborhood Relations and Time-respecting Paths |
+| 14:00–14:40 | Hans Joachim Voth (University of Zurich) | TBA |
+| 14:40–15:10 | Break | |
+| 15:10–15:40 | Malte Vogl (Berlin-Brandenburgische Akademie der Wissenschaften) & Raphael Schlattman (Berlin Technical University) | Aspects of modelling knowledge dynamics for historical research |
+| 15:40–16:20 | Iiro Tiihonen (Helsinki University) | Counting the zeroes: Reconstructing the missing part of the English Short Title Catalogue |
+
+| 18:00 | Dinner | 
+
+### December 4, 2026
+
+| Time | Talk | Speaker |
+| 10:00–10:40 | Eetu Mäkelä (Helsinki University)  | TBA |
+| 10:40–11:20 | Anne Kandler (MPI-EVA, Leipzig) | TBA |
+| 11:20–12:00 | Bret Beheim (MPI-EVA, Leipzig) | The Forces of Cultural Change and the Death of Latin |
+| 12:00–13:00 | Lunch | |
+| 13:00–15:00 | Discussion | 
+
+
 
