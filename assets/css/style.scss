@@ -209,7 +209,6 @@ q {
   .markdown-body table td:first-child {
     padding-left: 0;
     padding-right: 5px;
-    white-space: nowrap;
   }
 }
 
@@ -229,5 +228,15 @@ q {
 
   .funder-logos img {
     max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .markdown-body table th:first-child,
+  .markdown-body table td:first-child {
+    white-space: normal;
+    min-width: 50px;
+    word-break: normal;
+    overflow-wrap: normal;
   }
 }
