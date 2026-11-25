@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Workshop
+## Cultural evolution and the circulation of knowledge - methods, models, sources
 
 Computational history, economic history, and cultural evolution have each advanced the use of digital archives for a quantitative study of history. Detailed records in these datasets allow for greater precision in understanding the causal processes that have shaped past events. The workshop brings together scholars that have worked on circulation of knowledge and cultural norms in past communities to discuss state of the art and future opportunities.
 
