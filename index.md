@@ -7,7 +7,7 @@ layout: default
 <figure>
 ![MPI-EVA inner courtyard](assets/images/mpi-eva-inner.jpg)
   <figcaption>
-    Atrium of the Max Planck Institute for Evolutionary Anthropology.
+    Central atrium of the Max Planck Institute for Evolutionary Anthropology.
   </figcaption>
 </figure>
 
