@@ -183,3 +183,22 @@ q {
   border: none;
   box-shadow: none;
 }
+
+.markdown-body figure {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.markdown-body figure img {
+  display: block;
+  margin: 0 auto;
+}
+
+.markdown-body figcaption {
+  font-family: 'Merriweather', serif;
+  font-size: 13px;
+  font-weight: 300;
+  font-style: italic;
+  color: #666;
+  margin-top: 5px;
+}
