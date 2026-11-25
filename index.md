@@ -4,6 +4,8 @@ layout: default
 
 # Cultural Evolution and the Circulation of Knowledge: Methods, Models, Sources
 
+![MPI-EVA inner courtyard](assets/images/mpi-eva-inner.jpg)
+
 ## About the workshop
 
 Computational history, economic history, and cultural evolution have each advanced the use of digital archives for a quantitative study of history. Detailed records in these datasets allow for greater precision in understanding the causal processes that have shaped past events. The workshop brings together scholars that have worked on circulation of knowledge and cultural norms in past communities to discuss state of the art and future opportunities.
@@ -42,6 +44,6 @@ Computational history, economic history, and cultural evolution have each advanc
 * The event is supported by the Estonian Research Council (grant PUTJD1251) and Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany.
 
 <div class="funder-logos">
-  <img src="assets/images/EEstonian-Research-Council-logo-white_RGB.webp" alt="Estonian Research Council logo">
+  <img src="assets/images/Estonian-Research-Council-logo-color_RGB.webp" alt="Estonian Research Council logo">
   <img src="assets/images/MPI_EVA_Logo_EN_green.png" alt="Max Planck Institute for Evolutionary Anthropology logo">
 </div>
