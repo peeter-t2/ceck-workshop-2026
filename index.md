@@ -25,6 +25,7 @@ The workshop will take place in the Max Planck Institute for Evolutionary Anthro
 
 | Time | Speaker | Talk |
 |---|---|---|
+| 09:30–<wbr>10:00 |  | Registration and coffee |
 | 10:00–<wbr>10:20 | **Richard McElreath** (MPI-EVA, Leipzig) <br> **Peeter Tinits** (MPI-EVA, Leipzig) | Welcome |
 | 10:20–<wbr>11:00 | **Peeter Tinits** (MPI-EVA, Leipzig) | Bibliographic Data and the Diffusion of Authors in Europe 1500-1800 |
 | 11:00–<wbr>11:40 | **Matı́as Cabello** (University Halle-Wittenberg) | The Growth of Science: Drivers, Barriers, and Future |
